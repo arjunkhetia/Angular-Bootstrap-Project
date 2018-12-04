@@ -7,7 +7,7 @@
 ![Dependency Status][dependency-image]
 ![devDependencies Status][devdependency-image]
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3. Also Bootstrap 4.1 installed and integrated all the modules.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.1. Also Bootstrap 4.1 installed and integrated all the modules.
 
 ## Development server
 
